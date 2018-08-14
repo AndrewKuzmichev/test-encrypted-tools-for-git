@@ -1,0 +1,19 @@
+{
+  "name": "test_encrypted_tools_for_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arteaga71/test-encrypted-tools-for-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arteaga71/test-encrypted-tools-for-git/issues"
+  },
+  "homepage": "https://github.com/Arteaga71/test-encrypted-tools-for-git#readme"
+}
